@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Controls.js">
+    <Files>
+      <File FileName="Assets\Scripts\MainGameButtonsScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainMenuButtonsScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controls.js" Line="33" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

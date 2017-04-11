@@ -1,0 +1,55 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 630M  (ID=0xde9)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+    Driver:   10.18.13.6451
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Warsztaty programowania\UNITY projekty\MyGame\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Warsztaty programowania\UNITY projekty\MyGame\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Warsztaty programowania\UNITY projekty\MyGame\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Warsztaty programowania\UNITY projekty\MyGame\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Warsztaty programowania\UNITY projekty\MyGame\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Warsztaty programowania\UNITY projekty\MyGame\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Warsztaty programowania\UNITY projekty\MyGame\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Warsztaty programowania\UNITY projekty\MyGame\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Warsztaty programowania\UNITY projekty\MyGame\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Warsztaty programowania\UNITY projekty\MyGame\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+Platform assembly: D:\Warsztaty programowania\UNITY projekty\MyGame\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Warsztaty programowania\UNITY projekty\MyGame\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.431088 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2034 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.810153 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 14868.
+Total: 3.009555 ms (FindLiveObjects: 0.940101 ms CreateObjectMapping: 0.464303 ms MarkObjects: 1.570256 ms  DeleteObjects: 0.034073 ms)
+
+Platform assembly: D:\Warsztaty programowania\UNITY projekty\MyGame\test_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: D:\Warsztaty programowania\UNITY projekty\MyGame\test_Data\Managed\Boo.Lang.dll (this message is harmless)
+HighscoreComputing script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DDD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SaveHighscore script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 31.825092 ms
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 520.
+Total: 0.480313 ms (FindLiveObjects: 0.060757 ms CreateObjectMapping: 0.025452 ms MarkObjects: 0.278335 ms  DeleteObjects: 0.114946 ms)
+

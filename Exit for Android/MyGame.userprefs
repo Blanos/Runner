@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HighscoreComputing.js">
+    <Files>
+      <File FileName="Assets\Scripts\Controls.js" Line="19" Column="3" />
+      <File FileName="Assets\Scripts\CrateScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AllValues.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HighscoreComputing.js" Line="11" Column="34" />
+      <File FileName="Assets\Scripts\SaveHighscore.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SaveNick.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShowHighscore.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LeaderboardButtonScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoveForwardAnim.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RightSideCol.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CreatingScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CheckHighscoreScript.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
